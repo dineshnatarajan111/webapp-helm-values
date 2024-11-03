@@ -4,7 +4,7 @@ webapp:
   image:
     repository: dinesh1705/webapp
     pullPolicy: IfNotPresent
-    tag: 0.0.8
+    tag: 0.0.9
 
   imagePullSecrets: []
 
