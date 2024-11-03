@@ -1,0 +1,9 @@
+apiVersion: v2
+name: webapp
+description: A Helm chart for Kubernetes deployment of my web app
+version: 0.1.3
+
+dependencies:
+  - name: webapp
+    version: 0.1.3
+    repository: https://dineshnatarajan111.github.io/webapp_helm
